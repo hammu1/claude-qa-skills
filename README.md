@@ -144,6 +144,9 @@ The pattern that makes these work, in order:
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+**All Rights Reserved** — see [LICENSE](LICENSE).
+
+This code is published for portfolio and evaluation purposes. You're welcome to read it;
+reuse in your own projects requires written permission.
 
 Built by [Syed Hammad Ali](https://github.com/hammu1) · AI QA Engineer
